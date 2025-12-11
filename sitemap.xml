@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://sunofegypt.org/</loc>
+    <lastmod>2025-12-09T13:52:22.769Z</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunofegypt.org/"/>
+    <xhtml:link rel="alternate" hreflang="pl-PL" href="https://sunofegypt.org/"/>
+  </url>
+  <url>
+    <loc>https://sunofegypt.org/terms/</loc>
+    <lastmod>2025-12-09T13:52:22.769Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunofegypt.org/terms/"/>
+    <xhtml:link rel="alternate" hreflang="pl-PL" href="https://sunofegypt.org/terms/"/>
+  </url>
+  <url>
+    <loc>https://sunofegypt.org/slot/</loc>
+    <lastmod>2025-12-09T13:52:22.769Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunofegypt.org/slot/"/>
+    <xhtml:link rel="alternate" hreflang="pl-PL" href="https://sunofegypt.org/slot/"/>
+  </url>
+  <url>
+    <loc>https://sunofegypt.org/responsible/</loc>
+    <lastmod>2025-12-09T13:52:22.769Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunofegypt.org/responsible/"/>
+    <xhtml:link rel="alternate" hreflang="pl-PL" href="https://sunofegypt.org/responsible/"/>
+  </url>
+  <url>
+    <loc>https://sunofegypt.org/privacy/</loc>
+    <lastmod>2025-12-09T13:52:22.769Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunofegypt.org/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="pl-PL" href="https://sunofegypt.org/privacy/"/>
+  </url>
+  <url>
+    <loc>https://sunofegypt.org/free/</loc>
+    <lastmod>2025-12-09T13:52:22.769Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunofegypt.org/free/"/>
+    <xhtml:link rel="alternate" hreflang="pl-PL" href="https://sunofegypt.org/free/"/>
+  </url>
+  <url>
+    <loc>https://sunofegypt.org/demo/</loc>
+    <lastmod>2025-12-09T13:52:22.769Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunofegypt.org/demo/"/>
+    <xhtml:link rel="alternate" hreflang="pl-PL" href="https://sunofegypt.org/demo/"/>
+  </url>
+  <url>
+    <loc>https://sunofegypt.org/cookie/</loc>
+    <lastmod>2025-12-09T13:52:22.769Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunofegypt.org/cookie/"/>
+    <xhtml:link rel="alternate" hreflang="pl-PL" href="https://sunofegypt.org/cookie/"/>
+  </url>
+  <url>
+    <loc>https://sunofegypt.org/booongo/</loc>
+    <lastmod>2025-12-09T13:52:22.769Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunofegypt.org/booongo/"/>
+    <xhtml:link rel="alternate" hreflang="pl-PL" href="https://sunofegypt.org/booongo/"/>
+  </url>
+  <url>
+    <loc>https://sunofegypt.org/app/</loc>
+    <lastmod>2025-12-09T13:52:22.769Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunofegypt.org/app/"/>
+    <xhtml:link rel="alternate" hreflang="pl-PL" href="https://sunofegypt.org/app/"/>
+  </url>
+  <url>
+    <loc>https://sunofegypt.org/about/</loc>
+    <lastmod>2025-12-09T13:52:22.769Z</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sunofegypt.org/about/"/>
+    <xhtml:link rel="alternate" hreflang="pl-PL" href="https://sunofegypt.org/about/"/>
+  </url>
+</urlset>

@@ -1,0 +1,19 @@
+{
+    "name": "Sun of Egypt 3 Casino Game | Play & Win Big Online",
+    "short_name": "Sun of Egypt 3",
+    "start_url": ".",
+    "display": "standalone",
+    "description": "Sun of Egypt 3 Casino Game \u2013 Spin for cash and style in Canada | Sun of Egypt 3 Game offers fun, music, and big wins | Play now securely",
+    "icons": [
+        {
+            "src": "images/fav.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/fav.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
